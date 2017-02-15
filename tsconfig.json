@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "module": "es2015",
+        "target": "es2015",
+        "sourceMap": true,
+        "jsx": "react",
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "preserveConstEnums": true,
+        "allowUnusedLabels": false,
+        "allowUnreachableCode": false,
+        "declaration": true,
+        "skipLibCheck": true
+    }
+}
